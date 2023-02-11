@@ -29,4 +29,3 @@ Currently not available on Github
 
 ```
 
-![Bild_2023-02-11_203200927](https://user-images.githubusercontent.com/68161401/218277588-0a4f4986-29e4-4206-b260-6e82cb4cde94.png)
