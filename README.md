@@ -23,7 +23,7 @@ Fully working web Panel to set up the bot ´
 
 IMPORTANT
 The bot needs to be self hosted (current state)
-This will be maybe change in the future
+This will maybe change in the future
 
 NOTE
 Currently not available on Github 
