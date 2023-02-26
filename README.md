@@ -1,38 +1,151 @@
 
-# crankybot
-is a Twitch and Discord bot that features a lot of functionality.
-```
-Let the bot moderate your twitch chat
-Let mods skip or add nw songs on your spotify through commands
-Create your own simple or advanced commands
 
-If used on Discord you can make use of the integrated twitch api as well
-posting Notifications if you go live
-get Alerts for new subs or subgifts to a specified Discord Channel
-basic features like welcome/leave message
-self role managing
-and music
+<!-- ABOUT THE PROJECT -->
+## Crankybot
+
+Crankybot is a Twitch AND Discord bot that has a lot of features
+
+Twitch:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Discord:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+### Built With
 
-Bot currently uses SQLite Database.
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-Planned features:
-Fully working web Panel to set up the bot ´
+* [![Node][Node.js]][Node-url]
 
-IMPORTANT
-The bot needs to be self hosted (current state)
-This will maybe change in the future
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-NOTE
-Currently not available on Github 
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ```
 
 ![image](https://user-images.githubusercontent.com/68161401/218277653-828481c3-bf32-4756-a8a2-c55d5e6a96ce.png)
 ![image](https://user-images.githubusercontent.com/68161401/218277770-b98867ce-8f97-4c15-a764-f6e76215ef79.png)
 ![image](https://user-images.githubusercontent.com/68161401/218277785-95d599b4-c2c0-4763-bd99-b2f7cbf8bee6.png)
+![image](https://user-images.githubusercontent.com/68161401/221386140-2ee4263f-996d-4611-b3cc-f43b67361ebb.png)
+
 
 
 
